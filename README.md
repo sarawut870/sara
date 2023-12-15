@@ -1,3 +1,3 @@
 # sara
-<img src = "/sarawut.png>
+<img src = "/sarawut.PNG>
  Good luck Have fun game 
